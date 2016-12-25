@@ -10,12 +10,7 @@ public class Test {
         System.out.println( " tag~ ");
 
 
-        System.out.println( " aaaaa !!! ");
-        System.out.println( " aaaaa !!! ");
-        System.out.println( " aaaaa !!! ");
-        System.out.println( " bbbbb !!! ");
-        System.out.println( " ccccc !!! ");
-        System.out.println( " dddd !!! ");
+        System.out.println( " br1 !!! ");
     }
 
 }
